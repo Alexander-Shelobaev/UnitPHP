@@ -1,0 +1,12 @@
+{
+    "name": "solid/php",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/classes"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "8"
+    }
+}
